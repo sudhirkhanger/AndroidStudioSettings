@@ -4,7 +4,7 @@
   
 ## Plugins
 
-    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown support, ADB WiFi Connect
+    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown support, 
 	
 ## File header
 
@@ -38,24 +38,18 @@
     Appearance & Behavior > Appearance > UI Options > Override default fonts > Noto Sans 13
     Editor > General > Mouse > Change font size with Ctrl+Mouse wheel
      
------ Under trial
-
-tmp folder
-    Help>Edit custom vm options
-    -Djava.io.tmpdir=/home/carlos/tmp
-    
-License
-    Editor>Copyright>Copyright Profiles>+
-    Editor>Copyright>Default profile
-     
-Conflicting settings
-alt+`
-ctrl+alt+shift page-up
-ctrl+alt+shift page-down
-ctrl+alt+shift end
-
+## Not required
 
 ## Getters and Setters
 
     Editor>Code Style>Java>Code Generation> Prefix "m in Field" and  "s in Static Field"
     
+## tmp folder
+   
+    Help>Edit custom vm options
+    -Djava.io.tmpdir=/home/carlos/tmp
+    
+## License
+
+    Editor>Copyright>Copyright Profiles>+
+    Editor>Copyright>Default profile
