@@ -4,7 +4,7 @@
   
 ## Plugins
 
-    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown support, 
+    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown support, Key Promoter X
 	
 ## File header
 
