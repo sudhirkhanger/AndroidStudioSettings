@@ -23,7 +23,7 @@
   
 ## Autosave
 
-    Appearances and Behavior > System Settings > Synchronization > Save files automatically if application is idle for 15 secs.
+    Appearance and Behavior > System Settings > Synchronization > Save files automatically if application is idle for 15 secs.
     Appearance and Behavior > System Settings > Project Opening > Open project in a new window
      
 ## Tools Name space
@@ -35,7 +35,7 @@
 
     Editor > Color & Fonts > Fonts > Editor Font > Primary fonts > Source Code Pro > 15
     Editor > Color & Fonts > Console Fonts > Editor Font > Primary fonts > Source Code Pro > 15
-    Appearance & Behavior > Appearance > UI Options > Override default fonts > Noto Sans 13
+    Appearance & Behavior > Appearance > UI Options > Override default fonts > Noto Sans 14
     Editor > General > Mouse > Change font size with Ctrl+Mouse wheel
      
 ## Not required
