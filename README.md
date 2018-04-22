@@ -53,3 +53,13 @@
 
     Editor>Copyright>Copyright Profiles>+
     Editor>Copyright>Default profile
+
+## Keyboard Shortcut Conflicts
+
+    Alt+F1
+		KDE - Dashboard
+		AS - Select current file or symbol in any view
+
+    Alt + BackQuote (`)
+		KDE - Walk through windows of current application
+		AS - VCS quick pop-up
