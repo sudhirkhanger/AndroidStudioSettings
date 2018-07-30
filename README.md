@@ -4,7 +4,7 @@
   
 ## Plugins
 
-    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown support, Key Promoter X, Android Parcelable code generator
+    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown support, Key Promoter X, Android Parcelable code generator, Keymap Exporter, CheckStyle-IDEA
 	
 ## File header
 
@@ -37,6 +37,15 @@
     Editor > Color & Fonts > Console Fonts > Editor Font > Primary fonts > Source Code Pro > 15
     Appearance & Behavior > Appearance > UI Options > Override default fonts > Noto Sans 14
     Editor > General > Mouse > Change font size with Ctrl+Mouse wheel
+	
+## Ligatures
+
+	// fonts must support ligatures
+	Editor > Fonts > Enable font ligatures
+	
+## Additional Shortcuts
+
+---
      
 ## Not required
 
@@ -55,10 +64,6 @@
     Editor>Copyright>Default profile
 
 ## Keyboard Shortcut Conflicts
-
-    Alt+F1
-		KDE - Dashboard
-		AS - Select current file or symbol in any view
 
     Alt + BackQuote (`)
 		KDE - Walk through windows of current application
