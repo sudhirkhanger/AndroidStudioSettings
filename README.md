@@ -4,7 +4,7 @@
   
 ## Plugins
 
-    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown support, Key Promoter X, Android Parcelable code generator, Keymap Exporter, CheckStyle-IDEA, Dash
+    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown Navigator, Key Promoter X, Android Parcelable code generator, Keymap Exporter, CheckStyle-IDEA, Dash
 	
 ## File header
 
