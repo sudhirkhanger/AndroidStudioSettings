@@ -69,3 +69,6 @@
     Alt + BackQuote (`)
 		KDE - Walk through windows of current application
 		AS - VCS quick pop-up
+	Ctrl+F10
+		KDE - Toggle Present Windows (All desktops)
+		AS - Apply Changes and Restart Activity
