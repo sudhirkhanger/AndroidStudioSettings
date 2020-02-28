@@ -34,8 +34,10 @@
     
 ## Fonts
 
-    Editor > Color & Fonts > Fonts > Editor Font > Primary fonts > Source Code Pro > 15
-    Editor > Color & Fonts > Console Fonts > Editor Font > Primary fonts > Source Code Pro > 15
+    Editor > Fonts > Editor > Font > Fonts > Fira Mono
+	Editor > Fonts > Editor > Font > Size > 15
+	Editor > Fonts > Editor > Font > Line Spacing > 1.1
+    Editor > Color Scheme > Console Fonts > Editor Font > Primary fonts > Source Code Pro > 15
     Appearance & Behavior > Appearance > UI Options > Override default fonts > Noto Sans 14
     Editor > General > Mouse > Change font size with Ctrl+Mouse wheel
 	
@@ -44,7 +46,11 @@
 	// fonts must support ligatures
 	Editor > Fonts > Enable font ligatures
 	
-## Additional Shortcuts
+## Apply Changes
+
+	Settings > Build, Execution, Deployment > Deployment >
+	Check - Automatically perform Run when Apply Changes fails
+	Check - Automatically perform Run when Apply Code Changes fails
 
 ---
      
@@ -72,3 +78,7 @@
 	Ctrl+F10
 		KDE - Toggle Present Windows (All desktops)
 		AS - Apply Changes and Restart Activity
+	Ctrl+Alt+Shift+Down/Up
+		KDE - Halt/Reboot without confirmation
+		AS - VCS next/previous change
+		
