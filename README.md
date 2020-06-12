@@ -4,8 +4,8 @@
   
 ## Plugins
 
-    Plugins > Browse Repository > Browse Repository > ABD Idea, Android Drawable Importer, Markdown Navigator, 
-	Key Promoter X, Android Parcelable code generator, Keymap Exporter, Rainbow Brackets, and Dash
+    Plugins > Browse Repository > Browse Repository > ABD Idea, Markdown, Keymap Exporter,
+	Nyan progress bar,	and Dash
 	
 ## File header
 
@@ -26,6 +26,7 @@
 
     Appearance and Behavior > System Settings > Synchronization > Save files automatically if application is idle for 15 secs.
     Appearance and Behavior > System Settings > Project Opening > Open project in a new window
+	Appearance and Behavior > System Settings > Project Opening > Default Directory
      
 ## Tools Name space
 
@@ -36,39 +37,15 @@
 
     Editor > Fonts > Editor > Font > Fonts > Fira Mono
 	Editor > Fonts > Editor > Font > Size > 15
-	Editor > Fonts > Editor > Font > Line Spacing > 1.1
-    Editor > Color Scheme > Console Fonts > Editor Font > Primary fonts > Source Code Pro > 15
+	Editor > Fonts > Enable font ligatures
     Appearance & Behavior > Appearance > UI Options > Override default fonts > Noto Sans 14
     Editor > General > Mouse > Change font size with Ctrl+Mouse wheel
-	
-## Ligatures
-
-	// fonts must support ligatures
-	Editor > Fonts > Enable font ligatures
 	
 ## Apply Changes
 
 	Settings > Build, Execution, Deployment > Deployment >
 	Check - Automatically perform Run when Apply Changes fails
 	Check - Automatically perform Run when Apply Code Changes fails
-
----
-     
-## Not required
-
-## Getters and Setters
-
-    Editor>Code Style>Java>Code Generation> Prefix "m in Field" and  "s in Static Field"
-    
-## tmp folder
-   
-    Help>Edit custom vm options
-    -Djava.io.tmpdir=/home/carlos/tmp
-    
-## License
-
-    Editor>Copyright>Copyright Profiles>+
-    Editor>Copyright>Default profile
 
 ## Keyboard Shortcut Conflicts
 
