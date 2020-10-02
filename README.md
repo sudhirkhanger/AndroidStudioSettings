@@ -5,7 +5,7 @@
 ## Plugins
 
     Plugins > Browse Repository > Browse Repository > ABD Idea, Markdown, Keymap Exporter,
-	Nyan progress bar,	and Dash
+	Nyan progress bar, Package Search, and Dash
 	
 ## File header
 
@@ -46,6 +46,17 @@
 	Settings > Build, Execution, Deployment > Deployment >
 	Check - Automatically perform Run when Apply Changes fails
 	Check - Automatically perform Run when Apply Code Changes fails
+	
+## Android Logcat
+
+	Editor > Color Scheme > Android Logcat
+	Uncheck - Inherit values from
+	Foreground color
+		Debug - #ABA7A9
+		Error - #FF0300
+		Info - #D3D537
+		Verbose - #5D5D5D
+		Warning - #DA8A20
 
 ## Keyboard Shortcut Conflicts
 
@@ -58,4 +69,3 @@
 	Ctrl+Alt+Shift+Down/Up
 		KDE - Halt/Reboot without confirmation
 		AS - VCS next/previous change
-		
