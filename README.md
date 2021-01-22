@@ -5,7 +5,7 @@
 ## Plugins
 
     Plugins > Browse Repository > Browse Repository > ABD Idea, Markdown, Keymap Exporter,
-	Nyan progress bar, Package Search, and Dash
+	Nyan progress bar, Package Search, Dash, Org4Idea and Kotlin Multiplatform Mobile.
 	
 ## File header
 
