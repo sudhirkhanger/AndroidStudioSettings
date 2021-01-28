@@ -5,7 +5,7 @@
 ## Plugins
 
     Plugins > Browse Repository > Browse Repository > ABD Idea, Markdown, Keymap Exporter,
-	Nyan progress bar, Package Search, Dash, Org4Idea and Kotlin Multiplatform Mobile.
+	Package Search, Dash, Org4Idea, JsonToKotlinClass and Kotlin Multiplatform Mobile.
 	
 ## File header
 
@@ -69,3 +69,6 @@
 	Ctrl+Alt+Shift+Down/Up
 		KDE - Halt/Reboot without confirmation
 		AS - VCS next/previous change
+    Ctrl+Alt+F10
+        Linux - Virtual console
+        AS - Apply Code Changes
