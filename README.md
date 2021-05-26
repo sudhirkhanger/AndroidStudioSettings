@@ -24,9 +24,9 @@
   
 ## Autosave
 
-    Appearance and Behavior > System Settings > Synchronization > Save files automatically if application is idle for 15 secs.
-    Appearance and Behavior > System Settings > Project Opening > Open project in a new window
-	Appearance and Behavior > System Settings > Project Opening > Default Directory
+    Appearance and Behavior > System Settings > Autosave > Save files automatically if application is idle for 15 secs.
+    Appearance and Behavior > System Settings > Project > Open project in a new window
+	Appearance and Behavior > System Settings > Project > Default Directory
      
 ## Tools Name space
 
