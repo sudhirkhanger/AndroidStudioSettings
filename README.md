@@ -49,14 +49,21 @@
 	
 ## Android Logcat
 
-	Editor > Color Scheme > Android Logcat
-	Uncheck - Inherit values from
-	Foreground color
-		Debug - #ABA7A9
-		Error - #FF0300
-		Info - #D3D537
-		Verbose - #5D5D5D
-		Warning - #DA8A20
+	Editor > Color Scheme > Console Colors > Foreground color
+	Editor > Color Scheme > Android Logcat > Foreground color
+	
+	Error output -> Assert -> #FFB7F3
+	Standard output -> Debug -> #A9F6FF
+	System output -> Warning - #FFF2A2
+	Error - #FF6B68
+	Info - #C1FFC2
+	Verbose - #D4D4D4
+	
+## Tab bar
+
+	View > Appearance > Navigation Bar > uncheck
+	Editor > General > Editor Tabs > Appearance > Tab placement > None
+
 
 ## Keyboard Shortcut Conflicts
 
