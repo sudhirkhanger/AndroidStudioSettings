@@ -76,6 +76,10 @@
 	Project > Show options menu
 	Open files with single click - enable
 	Always select opened files - enable
+
+## Background Image
+
+	Appearance & Behavior > Appearance > UI Options
 	
 ## Keymap
 
