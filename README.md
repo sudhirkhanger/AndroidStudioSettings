@@ -76,6 +76,10 @@
 
 	Keymap > Emacs Modified
 
+## Disable Code author inlay hints
+
+	Editor > Inlay Hints > Code vision > Code author
+
 ## Keyboard Shortcut Conflicts
 
     Alt + BackQuote (`)
