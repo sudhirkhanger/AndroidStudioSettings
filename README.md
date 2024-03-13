@@ -1,11 +1,11 @@
 ## Theme
 
-    Appearance and Behavior > Appearance > Dark
+    Appearance and Behavior > Appearance > New UI > Enable New UI
   
 ## Plugins
 
     Plugins > Marketplace > ABD Idea, Markdown, Keymap Exporter, 
-	Dash, Org4Idea, JsonToKotlinClass and Kotlin Multiplatform Mobile.
+	Dash, JsonToKotlinClass and Kotlin Multiplatform Mobile.
 	
 ## Auto Imports
   
@@ -29,9 +29,8 @@
     Editor > Fonts > Editor > Font > Fonts > Fira Mono
 	Editor > Fonts > Editor > Font > Size > 15
 	Editor > Fonts > Enable font ligatures
-    Appearance & Behavior > Appearance > Zoom > 110%
-    Editor > General > Mouse Control > Change font size with Ctrl+Mouse wheel > Enable
-	Editor > General > Mouse Control > Change font size with Ctrl+Mouse wheel > All editors
+    Editor > General > Mouse Control > Change font size with Ctrl + Mouse wheel > Enable
+	Editor > General > Mouse Control > Change font size with Ctrl + Mouse wheel > All editors
 	
 ## Apply Changes
 
@@ -49,7 +48,7 @@
 	Standard output -> #A9F6FF
 	System output -> #FFF2A2
 	
-	Console & Log Console > Foreground color
+	Log Console > Foreground color
 		
 	Debug -> #A9F6FF
 	Error - #FF6B68
@@ -64,8 +63,9 @@
 	
 ## Project options menu
 
-	Project side menu > Options
+	Project Window > Options 
 	Open files with single click - enable
+	Open Directories with single click - enable
 	Always select opened files - enable
 
 ## Background Image
@@ -79,6 +79,20 @@
 ## Disable Code author inlay hints
 
 	Editor > Inlay Hints > Code vision > Code author
+
+## Experimental
+
+	Experimental > Gradle > Configure all Gradle tasks during Gradle Sync
+	Experimental > Layout Inspector > Enable embedded Layout Inspector
+
+## Device Mirroring
+
+	Tools > Device Mirrorin > Activate
+
+## IDE max heap size
+
+	Appearance & Behaviour > System Settings > Memory Settings >
+	IDE Heap Size Settings > IDE max heap size > 5120 MB
 
 ## Keyboard Shortcut Conflicts
 
