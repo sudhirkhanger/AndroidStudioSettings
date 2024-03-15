@@ -94,6 +94,10 @@
 	Appearance & Behaviour > System Settings > Memory Settings >
 	IDE Heap Size Settings > IDE max heap size > 5120 MB
 
+## Code author
+
+	Editor > Inlay Hints > Code vision > Code author > disable
+
 ## Keyboard Shortcut Conflicts
 
     Alt + BackQuote (`)
