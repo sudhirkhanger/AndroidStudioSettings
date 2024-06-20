@@ -94,9 +94,13 @@
 	Appearance & Behaviour > System Settings > Memory Settings >
 	IDE Heap Size Settings > IDE max heap size > 5120 MB
 
-## Code author
+## Live Edit
 
-	Editor > Inlay Hints > Code vision > Code author > disable
+	Editor > Live Edit > Live Edit > Push Edits Automatically
+
+## Sticky Lines
+
+	Editor > General > Appearance > Show sticky lines while scrolling (Uncheck)
 
 ## Keyboard Shortcut Conflicts
 
