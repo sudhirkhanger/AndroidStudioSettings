@@ -102,6 +102,10 @@
 
 	Editor > General > Appearance > Show sticky lines while scrolling (Uncheck)
 
+## IDE Heap Size Settings
+
+	Appearance & Behaviour > System Settings > Memory Settings > IDE max heap size > 5120MB
+
 ## Keyboard Shortcut Conflicts
 
     Alt + BackQuote (`)
