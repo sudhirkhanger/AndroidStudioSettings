@@ -1,11 +1,6 @@
-## Theme
-
-    Appearance and Behavior > Appearance > New UI > Enable New UI
-  
 ## Plugins
 
-    Plugins > Marketplace > ABD Idea, Markdown, Keymap Exporter, 
-	Dash, JsonToKotlinClass and Kotlin Multiplatform Mobile.
+    Plugins > Marketplace > ABD Idea, Markdown, & Keymap Exporter.
 	
 ## Auto Imports
   
@@ -83,11 +78,12 @@
 ## Experimental
 
 	Experimental > Gradle > Configure all Gradle tasks during Gradle Sync
-	Experimental > Layout Inspector > Enable embedded Layout Inspector
 
 ## Device Mirroring
 
-	Tools > Device Mirrorin > Activate
+	Tools > Device Mirroring
+	Activate mirroring when a new physical device is connected
+	Activate mirroring when launching an app on a physical device
 
 ## IDE max heap size
 
@@ -101,10 +97,6 @@
 ## Sticky Lines
 
 	Editor > General > Appearance > Show sticky lines while scrolling (Uncheck)
-
-## IDE Heap Size Settings
-
-	Appearance & Behaviour > System Settings > Memory Settings > IDE max heap size > 5120MB
 
 ## Keyboard Shortcut Conflicts
 
